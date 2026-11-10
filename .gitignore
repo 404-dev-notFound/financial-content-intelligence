@@ -21,7 +21,6 @@ __pycache__/
 htmlcov/
 
 # ── IDE / editor / tooling ──────────────────────────────────────────────────
-.claude/
 .vscode/
 .idea/
 *.swp
